@@ -2,7 +2,7 @@
 
 An interactive particle system with beautiful graphics, mouse interaction, and persistent state storage.
 
-![Particle Playground](https://raw.githubusercontent.com/particleplayground/particleplayground.github.io/main/screenshot.png)
+![Particle Playground](screenshot.jpg)
 
 ## Demo
 
